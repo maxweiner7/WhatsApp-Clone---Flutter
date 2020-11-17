@@ -1,7 +1,6 @@
 # whatsapp Clone FLutter
 
-https://firebasestorage.googleapis.com/v0/b/whatsapp-9c388.appspot.com/o/WhatsApp.png?alt=media&token=44a1e12f-cffc-4b83-a1ed-39b6f0eccf5d
-
+![Whatsapp telas](https://github.com/maxweiner7/WhatsApp-Clone---Flutter/blob/main/WhatsApp.png)
 
 Projeto desenvolvido durante o curso "Desenvolvimento Android e IOS com Flutter 2020" no site Udemy.
 
