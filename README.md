@@ -1,4 +1,4 @@
-# whatsapp Clone FLutter
+# WhatsApp Clone FLutter
 
 ![Whatsapp telas](https://github.com/maxweiner7/WhatsApp-Clone---Flutter/blob/main/WhatsApp.png)
 
