@@ -1,12 +1,9 @@
 # WhatsApp Clone FLutter
 
 ![Whatsapp telas](https://github.com/maxweiner7/WhatsApp-Clone---Flutter/blob/main/WhatsApp.png)
-
 Projeto desenvolvido durante o curso "Desenvolvimento Android e IOS com Flutter 2020" no site Udemy.
 
 ## Getting Started
-
-
 Neste módulo do curso foi desenvolvido:
 
 * Tela de login
